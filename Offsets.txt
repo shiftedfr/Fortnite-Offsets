@@ -1,5 +1,5 @@
 VERSION = 1.0
-GWORLD = 0x16EB5008
+GWORLD = 0x16DA8288
 Levels = 0x1B0
 PersistentLevel = 0x40
 GameState = 0x198
@@ -31,7 +31,7 @@ HighestRarity = 0xE08
 CurrentWeapon = 0xA80
 bIsDBNO = 0x962
 bIsDying = 0x720
-WeaponData = 0x570
+WeaponData = 0x578
 AmmoCount = 0xEFC
 WorldGravityZ = 0x328
 TargetedFortPawn = 0x1990

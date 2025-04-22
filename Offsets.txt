@@ -73,7 +73,3 @@ NameStructure = 0xb08
 SceneViewState = 0xd0
 ProjectionMatrix = 0x940
 FieldOfView = 0x740
-
-Cam:
-1. 0x148
-2. 0x158

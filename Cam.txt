@@ -1,3 +1,3 @@
 Cam:
-1. 0x148
-2. 0x158
+1. 0x148 (CameraLocation)
+2. 0x158 (CameraRotation)

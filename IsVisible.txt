@@ -1,0 +1,18 @@
+
+bool USkeletalMeshComponent::IsVisible()
+{
+    auto Seconds = request->read<double>(reinterpret_cast<uintptr_t>(Cheat::Cache::World) + 0x158 + 0x10);
+    auto LastRenderTime = request->read<float>(reinterpret_cast<uintptr_t>(this) + 0x32C);
+    return Seconds - LastRenderTime <= 0.06f;
+
+
+
+
+(That above is for my code, idk what yall use) so, another variant:
+
+bool IsEnemyVisible(uintptr_t mesh)
+    {
+        auto Seconds = memory.Read<double>(CachePointers.UWorld + CameraRotation + 0x10 );
+        auto LastRenderTime = memory.Read<float>(mesh + 0x32C);
+        return Seconds - LastRenderTime <= 0.06f;
+    }

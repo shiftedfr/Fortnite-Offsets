@@ -1,4 +1,4 @@
-FORTNITE VERSION = ++Fortnite+Release-35.00-CL-42223143-Windows
+FORTNITE VERSION = 35.00
 GWORLD = 0x17AA2698
 Levels = 0x1C0
 PersistentLevel = 0x38

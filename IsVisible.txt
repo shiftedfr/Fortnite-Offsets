@@ -1,5 +1,5 @@
 bool is_visible(uintptr_t mesh, float tolerance = 0.06f) {
-	double Seconds = read<double>(cache::uworld + 0x178 + 0x10);
+	double Seconds = read<double>(cache::uworld + 0x170 + 0x10);
 	float LastRenderTime = read<float>(mesh + 0x32C);
 	return Seconds - LastRenderTime <= tolerance;
 }

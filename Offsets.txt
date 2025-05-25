@@ -1,6 +1,6 @@
 VERSION = 1.0
 GWORLD = 0x17DD5A88
-Levels = 0x1C0
+Levels = 0x1D0
 PersistentLevel = 0x40
 GameState = 0x1B8
 OwningGameInstance = 0x230

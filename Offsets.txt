@@ -77,3 +77,4 @@ ProjectionMatrix = 0x940
 FieldOfView = 0x740
 CameraLocation = 0x170
 CameraRotation = 0x180
+SecondsVisible = 0x190

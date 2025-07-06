@@ -49,5 +49,5 @@ RelativeRotation = 0x158
 p_name_structure = 0xB40
 CameraLocation = 0x178
 CameraRotation = 0x188
-SecondsVisible = 0x190
+SecondsVisible = 0x198
 LastRenderTime = 0x32C

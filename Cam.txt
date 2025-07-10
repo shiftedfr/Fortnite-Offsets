@@ -1,3 +1,1 @@
-Cam:
-1. 0x170 (CameraLocation)
-2. 0x180 (CameraRotation)
+

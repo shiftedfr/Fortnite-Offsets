@@ -53,3 +53,4 @@ p_name_structure = 0xB40
 CameraLocation = 0x178
 CameraRotation = 0x188
 SecondsVisible = 0x198
+-- MintyCheats.com --

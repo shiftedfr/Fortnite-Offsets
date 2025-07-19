@@ -3,6 +3,7 @@ GWORLD = 0x1488D840
 Levels = 0xa0
 PersistentLevel = 0x40
 GameState = 0x1B0
+bUseGravity = 0x8A2
 OwningGameInstance = 0x228
 DefaultPhysicsVolume = 0x32c
 OwningWorld = 0xf8

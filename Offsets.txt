@@ -1,5 +1,5 @@
 VERSION = 2.0
-GWORLD = 0x1488D840
+GWORLD = 0x14942840
 Levels = 0xa0
 PersistentLevel = 0x40
 GameState = 0x1B0

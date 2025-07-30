@@ -1,6 +1,1 @@
-bool USkeletalMeshComponent::IsVisible() {
-	uintptr_t mesh = reinterpret_cast<uintptr_t>(this);
-	double Seconds = mintycheats->read<double>(reinterpret_cast<uint64_t>(Cheat::Cache::World) + 0x180);
-	float LastRenderTime = mintycheats->read<float>(mesh + 0x32C);
-	return Seconds - LastRenderTime <= 0.06f;
-}
+

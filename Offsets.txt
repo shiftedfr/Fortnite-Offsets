@@ -57,7 +57,7 @@ RelativeRotation = 0x150
 p_name_structure = 0xB48
 NetConnection = 0x528
 PlayerCameraManager = 0x360
-CameraLocation = 0X180
-CameraRotation = 0X190
+CameraLocation = 0x180
+CameraRotation = 0x190
 SecondsVisible = 0x190
 -- MintyCheats.com --

@@ -1,2 +1,1 @@
-I will always update these offsets, each update.
-Make sure to join my server ->: - mintycheats.com/discord -
+I’ll always keep these offsets up to date after every single patch or update. Make sure to join my Discord : arcsoftware.biz/discord

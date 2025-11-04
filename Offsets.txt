@@ -55,5 +55,5 @@ PlayerCameraManager = 0x360
 CameraLocation = 0x178
 CameraRotation = 0x188
 SecondsVisible = 0x198
-BaseFOV = 0x3B4 //(OLD -> 0x3AC)
+BaseFOV = 0x3B4
 -- ArcSoftware.biz --

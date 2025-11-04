@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Fortnite Offsets (V38.00) /\ November 1 </h1>
+<h1 align="center">🚀 Fortnite Offsets (V38.00) /\ November 1th </h1>
 
 <p align="center">
   <b>Always kept 100% up-to-date — after every single patch & update ⚙️</b><br>

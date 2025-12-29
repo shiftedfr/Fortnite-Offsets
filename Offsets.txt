@@ -1,4 +1,4 @@
-VERSION = 39.10
+VERSION = 2.0
 GWORLD = 0x175C9368
 Levels = 0x1F0
 PersistentLevel = 0x40

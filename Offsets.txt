@@ -5,7 +5,7 @@ PersistentLevel = 0x40
 GameState = 0x1D8
 bUseGravity = 0x8BA
 OwningGameInstance = 0x250
-DefaultPhysicsVolume = 0x32C
+DefaultPhysicsVolume = 0x324
 OwningWorld = 0x60
 WorldSettings = 0x2B8
 PlayerArray = 0x2C8
@@ -54,7 +54,7 @@ NetConnection = 0x528
 PlayerCameraManager = 0x368
 CameraLocation = 0x178
 CameraRotation = 0x188
-SecondsVisible = 0x196
+SecondsVisible = 0x198
 BaseFOV = 0x3B4
 -- ArcSoftware.biz --
 FN built v39.11 

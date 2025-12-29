@@ -57,4 +57,4 @@ CameraRotation = 0x188
 SecondsVisible = 0x198
 BaseFOV = 0x3B4
 -- ArcSoftware.biz --
-FN built v39.10  // December 11, 2025,
+FN built v39.11 

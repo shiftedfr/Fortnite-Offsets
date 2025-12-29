@@ -54,7 +54,7 @@ NetConnection = 0x528
 PlayerCameraManager = 0x368
 CameraLocation = 0x178
 CameraRotation = 0x188
-SecondsVisible = 0x198
+SecondsVisible = 0x196
 BaseFOV = 0x3B4
 -- ArcSoftware.biz --
 FN built v39.11 

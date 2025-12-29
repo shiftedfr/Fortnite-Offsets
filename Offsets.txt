@@ -1,4 +1,4 @@
-VERSION = v39.10 // December 11, 2025,
+VERSION = 39.10
 GWORLD = 0x175C9368
 Levels = 0x1F0
 PersistentLevel = 0x40
@@ -57,3 +57,4 @@ CameraRotation = 0x188
 SecondsVisible = 0x198
 BaseFOV = 0x3B4
 -- ArcSoftware.biz --
+FN built v39.10  // December 11, 2025,

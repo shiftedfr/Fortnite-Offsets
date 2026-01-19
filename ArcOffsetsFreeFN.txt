@@ -2,6 +2,9 @@ UWorld = 0x17B96228
 XorKey = 0x7B40E797ULL
 XorV2 = 50
 
+gEngine = 0x17B97B28
+GameViewport = 0xae0
+
 OwningGameInstance = 0x240
 LocalPlayers = 0x38
 PlayerController = 0x30

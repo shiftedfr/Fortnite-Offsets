@@ -17,9 +17,9 @@ PlayerAim = 0x2BD0
 
 CameraLocation = 0x178
 CameraRotation = 0x188
-SecondsVisible = 0x32C
+SecondsVisible = 0x198
 CameraFOV = 0x3B4
-LastRenderTime = 0x328
+LastRenderTime = 0x32C
 
 BoneArray = 0x5F0
 BoneCache = 0x5F8

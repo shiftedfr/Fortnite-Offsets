@@ -10,6 +10,7 @@ AcknowledgedPawn = 0x358
 PawnPrivate = 0x328
 PlayerState = 0x2D0
 TeamIndex = 0x11B1
+CurrentWeapon = 0x990
 
 Mesh = 0x330
 RootComponent = 0x1B0

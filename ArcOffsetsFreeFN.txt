@@ -31,3 +31,6 @@ ComponentToWorld = 0x1E0
 CustomTimeDilation = 0x68
 CurrentVehicle = 0x2C58
 GravityVehicle = 0x1E9C
+FovMinimum = 0x2C58
+FovMaximum = 0x2C58
+RelativeRotation = 0x158

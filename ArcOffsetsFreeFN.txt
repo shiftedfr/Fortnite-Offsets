@@ -1,33 +1,33 @@
-UWorld=0x17B96228
-GEngine=0x17B97B28
-GameViewPort=0xAE0
-World=0x78
+UWorld = 0x17B96228
+GEngine = 0x17B97B28
+GameViewPort = 0xAE0
+World = 0x78
 
-OwningGameInstance=0x240
-LocalPlayers=0x38
-PlayerController=0x30
-AcknowledgedPawn=0x358
-PawnPrivate=0x328
-PlayerState=0x2D0
-TeamIndex=0x11B1
+OwningGameInstance = 0x240
+LocalPlayers = 0x38
+PlayerController = 0x30
+AcknowledgedPawn = 0x358
+PawnPrivate = 0x328
+PlayerState = 0x2D0
+TeamIndex = 0x11B1
 
-Mesh=0x330
-RootComponent=0x1B0
+Mesh = 0x330
+RootComponent = 0x1B0
 
-GameState=0x1C8
-PlayerArray=0x2C8
+GameState = 0x1C8
+PlayerArray = 0x2C8
 
-CameraLocation=0x178
-CameraRotation=0x188
-SecondsVisible=0x198
-LastRenderTime=0x328
-CameraFOV=0x3B4
-PlayerAim=0x2BD0
+CameraLocation = 0x178
+CameraRotation = 0x188
+SecondsVisible = 0x198
+LastRenderTime = 0x328
+CameraFOV = 0x3B4
+PlayerAim = 0x2BD0
 
-BoneArray=0x5F0
-BoneCache=0x5F8
-ComponentToWorld=0x1E0
+BoneArray = 0x5F0
+BoneCache = 0x5F8
+ComponentToWorld = 0x1E0
 
-CustomTimeDilation=0x68
-CurrentVehicle=0x2C58
-GravityVehicle=0x1E9C
+CustomTimeDilation = 0x68
+CurrentVehicle = 0x2C58
+GravityVehicle = 0x1E9C

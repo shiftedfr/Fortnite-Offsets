@@ -1,6 +1,6 @@
 UWorld = 0x17B96228
 GEngine = 0x17B97B28
-GameViewPort = 0xAE0
+GameViewport = 0xAE0
 World = 0x78
 
 OwningGameInstance = 0x240

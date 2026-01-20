@@ -1,6 +1,5 @@
 UWorld = 0x17B96228
 XorKey = 0x7B40E797ULL
-XorV2 = 50
 
 OwningGameInstance = 0x240
 LocalPlayers = 0x38

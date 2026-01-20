@@ -3,8 +3,6 @@ GEngine = 0x17B97B28
 
 World = 0x78
 OwningGameInstance = 0x240
-GameState = 0x1C8
-
 LocalPlayers = 0x38
 PlayerController = 0x30
 GameViewPort = 0xAE0
@@ -28,6 +26,7 @@ SecondsVisible = 0x198
 CameraFOV = 0x3B4
 PlayerAim = 0x2BD0
 
+GameState = 0x1C8
 PlayerArray = 0x2C8
 
 CustomTimeDilation = 0x68

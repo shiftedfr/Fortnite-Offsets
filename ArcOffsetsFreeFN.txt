@@ -3,6 +3,9 @@ GEngine = 0x17B97B28
 GameViewport = 0xAE0
 World = 0x78
 
+PersistentLevel = 0x40
+ActorArray = 0x208
+
 OwningGameInstance = 0x240
 LocalPlayers = 0x38
 PlayerController = 0x30

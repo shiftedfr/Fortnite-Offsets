@@ -1,5 +1,5 @@
-UWorld = 0x178C37A8
-GEngine = 0x178C50A8
+UWorld = 0x178685D8
+GEngine = 0x17869ED8
 GameViewport = 0xAE0
 World = 0x78
 
@@ -21,15 +21,15 @@ RootComponent = 0x1B0
 GameState = 0x1D0
 PlayerArray = 0x2C8
 
-CameraLocation = 0x178
-CameraRotation = 0x188
-SecondsVisible = 0x198
+CameraLocation = 0x170
+CameraRotation = 0x180
+SecondsVisible = 0x190
 LastRenderTime = 0x328
 CameraFOV = 0x3B4
 PlayerAim = 0x2BD0
 
 BoneArray = 0x5F0
-BoneCache = 0x5F8
+BoneCache = 0x600
 ComponentToWorld = 0x1E0
 
 CustomTimeDilation = 0x68

@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Fortnite Offsets (V39.11) </h1>
+<h1 align="center">🚀 Fortnite Offsets (V39.30) </h1>
 
 <p align="center">
   <b>Always kept 100% up-to-date — after every single patch & update ⚙️</b><br>

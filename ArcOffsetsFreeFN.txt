@@ -33,11 +33,11 @@ BoneCache = 0x600
 ComponentToWorld = 0x1E0
 
 CustomTimeDilation = 0x68
-CurrentVehicle = 0x2C58
-GravityVehicle = 0x1E9C
+CurrentVehicle = 0x2c68
+GravityVehicle = 0x1e9c
 bDisableEquipAnimation = 0x3d1
-LastFireTimeVerified = 0x1118
-LastFireTime = 0x1114
+LastFireTimeVerified = 0x1430
+LastFireTime = 0x142c
 FovMinimum = 0x2b08
 FovMaximum = 0x2b0c
 RelativeRotation = 0x158

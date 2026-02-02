@@ -32,6 +32,9 @@ BoneArray = 0x5F0
 BoneCache = 0x600
 ComponentToWorld = 0x1E0
 
+Username = 0xA08
+Platform = 0x440
+
 CustomTimeDilation = 0x68
 CurrentVehicle = 0x2c68
 GravityVehicle = 0x1e9c

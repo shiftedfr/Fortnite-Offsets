@@ -1,12 +1,9 @@
-UWorld = 0x178685D8
-GEngine = 0x17869ED8
-GameViewport = 0xAE0
-World = 0x78
+UWorld = 0x177E8AA8
 
 PersistentLevel = 0x40
-ActorArray = 0x208
+ActorArray = 0x130
 
-OwningGameInstance = 0x248
+OwningGameInstance = 0x240
 LocalPlayers = 0x38
 PlayerController = 0x30
 AcknowledgedPawn = 0x358
@@ -18,12 +15,12 @@ CurrentWeapon = 0x990
 Mesh = 0x330
 RootComponent = 0x1B0
 
-GameState = 0x1D0
+GameState = 0x1C8
 PlayerArray = 0x2C8
 
-CameraLocation = 0x170
-CameraRotation = 0x180
-SecondsVisible = 0x190
+CameraLocation = 0x178
+CameraRotation = 0x188
+SecondsVisible = 0x198
 LastRenderTime = 0x328
 CameraFOV = 0x3B4
 PlayerAim = 0x2BD0
@@ -35,12 +32,12 @@ ComponentToWorld = 0x1E0
 Username = 0xA08
 Platform = 0x440
 
-CustomTimeDilation = 0x68
-CurrentVehicle = 0x2c68
-GravityVehicle = 0x1e9c
-bDisableEquipAnimation = 0x3d1
-LastFireTimeVerified = 0x1430
-LastFireTime = 0x142c
-FovMinimum = 0x2b08
-FovMaximum = 0x2b0c
-RelativeRotation = 0x158
+CustomTimeDilation = 0x68 //not updated
+CurrentVehicle = 0x2c68 //not updated
+GravityVehicle = 0x1e9c //not updated
+bDisableEquipAnimation = 0x3d1 //not updated
+LastFireTimeVerified = 0x1430 //not updated
+LastFireTime = 0x142c //not updated
+FovMinimum = 0x2b08 //not updated
+FovMaximum = 0x2b0c //not updated
+RelativeRotation = 0x158 //not updated

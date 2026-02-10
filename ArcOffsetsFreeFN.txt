@@ -1,7 +1,7 @@
 UWorld = 0x1780BA78
 
 PersistentLevel = 0x40
-ActorArray = 0x130
+ActorArray = 0x40
 
 OwningGameInstance = 0x250
 LocalPlayers = 0x38

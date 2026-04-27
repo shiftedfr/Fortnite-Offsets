@@ -10,7 +10,7 @@ DefaultPhysicsVolume = 0x328
 OwningWorld = 0xe8
 WorldSettings = 0x2B8
 PlayerArray = 0x2c8
-ServerWorldTimeSecondsDelta = 0x2E8
+ServerWorldTimeSecondsDelta = 0x198
 LocalPlayers = 0x38
 Mesh = 0x330
 PlayerController = 0x30
@@ -55,7 +55,7 @@ NetConnection = 0x528
 PlayerCameraManager = 0x368
 CameraLocation = 0x178
 CameraRotation = 0x188
-SecondsVisible = 0x190
+SecondsVisible = 0x198
 BaseFOV = 0x3B4
 -- ArcSoftware.biz --
 FN patch -> 40.20
